@@ -1,2 +1,2 @@
 # test
-OKPAK
+OK
