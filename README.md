@@ -1,2 +1,2 @@
 # test
-OKPAK
+OKPAK OPEN
